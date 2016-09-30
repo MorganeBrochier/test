@@ -1,0 +1,6 @@
+com.humanbooster.echeancier
+com.humanbooster.echeancier.business
+com.humanbooster.echeancier.exceptions
+com.humanbooster.echeancier.service
+com.humanbooster.echeancier.service.impl
+com.humanbooster.echeancier.util
